@@ -19,7 +19,7 @@ function Darkbutton() {
     
       </button>
       <br/>
-     <p className='dark'>Dark/Light</p>
+     <p className='dark'></p>
     </div>
   
     </>
